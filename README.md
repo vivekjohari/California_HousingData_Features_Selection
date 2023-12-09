@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/vivekjohari/California_Housing_Price_Predictor/blob/main/California_Housing_Price_Predictor.png)
+![Logo](https://github.com/vivekjohari/California_HousingData_Features_Selection/blob/main/California_Housing_Price_Predictor.png)
 
 
 # California housing price prediction using Linear Regression model
